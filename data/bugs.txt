@@ -1,0 +1,153 @@
+[Dungeons] you shouldn't be able to light a fire in any bank
+[Dungeons] there was no 'cook all' option in 2006. only 1, 5, 10 and x
+[Dungeons] also, music didn't loop in 2006. it just stopped after the soundtrack ende
+[Dungeons] seagulls (lvl2) keep hitting 1s, even tho they shouldn't be able to hit mo
+[Dungeons] when you get caught in ardougne while stealing from stall, only lvl 20 gu9
+[Mike] when using the hop fence going to lumby it glitches
+[Mike] no npc guards at prison in draynor. Thanks =D
+[Mike] can't trade or talk to diango in draynor village. Thanks.
+[Mike] crumbling wall in fally can't be climbed over. Thanks =D
+[Mike] idk if this is one but no tips given for monsters on slayer tasks
+[Mr s] music should not be looped if the loop button is not on
+[Mr s] merlin should not be visible walking around in his room before completing 
+[Mr s] you are able to do goblin bow and goblin dance while doing an action like 
+[Chase] you can be attacked through fence in lumbridge 
+[Harha] No rock crabs at rellekka, quite pointless to report this though. :D
+[Mika] monastery need monks
+[Shekelberg] Hey, mige5 are thinking about fixing the forced movement for gates etc?
+[Mika] musa point has knife ground drop in general store in original 06 rs
+[Mika] agility shortcuts some works some coded wrong
+[Mika] rabbit hop emote dont work
+[Mika] swarm event dont attack player
+[Mika] Dr Ford after he aggressive he got hp lvl 10 any lvl & hitting 0 on player
+[Mika] when login game u get poisoned
+[Mika] can't coloring normal capes
+[Mika] you can't get soft leather during elemental workshop I
+[Mika] nulodion's multicannon parts zero cannon base in rs had 10 in stock
+[Mika] raw lava eel gives 0 fishing xp
+[Mika] no added otherwordly beings
+[Mika] ignore list goes cleared automatic after update
+[Ryu] one of the fishing spots in lumby is net\bait, both should be lure\bait
+[Ryu] hp and prayer didn't restore after winning a duel
+[Mika] graveyard of shadows no got c'bow in ground drop in clue location
+[Mika] sapphire ground item is in wrong coordinate in 46 lvl wild
+[Mika] wrong runes ground system dark knight fortress
+[Mika] yanille agility dungeon don't got lockpick respawn
+[Mika] can't alch fire rune with staff of fire without inventory dont got +5 rune
+[Mika] can't eat king worm
+[Mika] can't teat toad's legs
+[Mika] camelot doesn't got black full helm respawn
+[Mika] 120 level river troll max hits only 6
+[Mika] river troll drops cooked food, drop list says he can drop only raw food
+[Mika] wilderness course no made yet
+[Shekelberg] cat won't follow when teleporting
+[Tommyb] stairs at white knights castle doesnt work side one
+[Tommyb] no rock crab spawns wtf?
+[Dream chief] you can't change your character's hair at falador
+[Virginianye] any way to get the flyer to be working again thanks
+[Twoo] when cooking somthing, you have to click 2time on fire to cook somthing el
+[Twoo] there are no rock crabs...
+[Dizzle] body rune spawns south west of chaos temple
+[Dizzle] kebabs only heal 1hp
+[Dizzle] run doesnt replenish after death
+[Dizzle] 4 step easy clue?
+[Dizzle] ::hiscore appears to crash client on a mac
+[Dizzle] poisened and died now everytime i log in im poisened again
+[Dream desire] you walk trough the wall when going trough a door
+[Dream desire] gen store @ shilo village is lagging when traing it
+[Dream desire] needs more thugs in edgeville dungeon near chaos druids
+[Dream desire] miscellania is totally empty.
+[Dream desire] you're supposed to talk to council workman before making strange object
+[Dream desire] drezel only takes 52 rune ess, but not 28 pure ess when u can do both actu
+[Dream desire] you don't get the level up message with icon in chat box after leveling wi
+[Dream desire] you can't play enchanted lyre item.
+[Dream desire] there should be a few more lesser demons in karamja vulcan (under)
+[Dream desire] stepping stone jumping isn't the right anim in brimhaven dung
+[Dream desire] agility shortcuts doesn't work
+[Dream desire] you need 2 redberries not 3 for goblin diplomacy
+[Dream desire] clue 7274 doesn't work, u should dig under sapphire drop lvl 46 wild
+[Dream desire] can't slice pineapples with knife!
+[Dream desire] rotten tomato crate in seers doesn't give u rotten tomatos
+[Dream desire] fadli in duel arena doesn't sell rotten tomatos either
+[Dream desire] yanille tomato crate doesn't work.
+[Dream desire] no shop trade sound effect, when you open gen store for ex
+[Joey] if u got 3 items, for example , clue steel scim u dont keep clue
+[Joey] u dont keep untradables i think, lsot a few quest ones too
+[Joey] lvl 22 skeletons overpowered, hits 6's
+[Dream desire] many npc's have the dragon spear drop
+[Dream desire] hill giants drop rune spear
+[Joey] u can drink potions really fast, could abuse in pk wih brews
+[Onion soup] west ardy cant be escaped without teleports
+[Joey] clue scrolls should be a extra drop, its coded in as drop
+[Dream desire] skeleton lvl 22's has wrong drops
+[Joey] npcs in buroth drop nothing not even bones
+[Daniel] vampyre juvinate has no drops
+[Daniel] arandar gate doesnt work
+[Daniel] ardougne wall door doesnt work
+[Joey] lvl 25 wolf - not white wolf only has 10 health
+[Joey] a jug of wine does not lower any stats, just heals
+[Salmon] Rune Thrownaxe spec? (Not that important)
+[Daniel] bank at misc/etc doesnt work
+[Dream desire] you can safespot ghouls from where you go down ladder in priest peril
+[2girls 1ags] monks, rats behind lumby castle, trapdoor to hams little things
+[Kyrre] The hammer and bronze axe spawns in Fally furnace should be upstairs.
+[Kyrre] The knife and  spade spawns in Varrock general store should be upstairs.
+[Dream desire] no coin, gold ring and cut sapphire spawns in kbd's lair
+[Dream desire] you don't lose ball of wool when making ropes @ Ned.
+[Dream desire] can't enter mage bank :(
+[Dream desire] can't eat strange fruit
+[Daniel] no cannon base in nulodion's multicannon parts
+[Kingi 900] cant kill the wormbrain during the dragonslayer quest. 
+[Decayer] you cant anwser Carolines riddle
+[Daniel] magic carpets dont work
+[Daniel] demons don't seem to be weak to fire spells
+[Lickmynine] vampire slayer candles burning me when not on candles
+[Joey] wallasalki only have 10hp
+[Daniel] trap door behind canifis pub doesnt work
+[Daniel] my maxhit with slayerdarts seem to be 10 tho i have 84 range
+[Tommyb] some of the pineapple plants can't be picked at brimhaven
+[Dream desire] you can't alch and run at the same time, it lag spikes u instead
+[Dream desire] you should pay make over mage after you changed char
+[Dream desire] prayer flicking drains prayer alot!
+[Deadxsilence] king worms are not edible yet, these are obtained from thieving gnomes.
+[Deadxsilence] gnomes do not the correct animation when you fail to pickpocket them.
+[Deadxsilence] when you fire a bow with no arrows, it says the message "you have no ammo 
+[Tommyb] you can pick up items through walls
+[Deadxsilence] when you drink a jug of wine, it says "You eat the jug of wine."
+[Daniel] shouldnt be splashing so much on barrows no matter how low mage bonus
+[Deadxsilence] sometimes when wearing a elemental tiara, it doesn't show the "enter" opti
+[Daniel] swamp boaty doesnt work
+[Daniel] canyou fix the rollback issue... it is really anooying af. esp when doing 
+[Deadxsilence] sometimes when you do something fast in-game and log out, you will get a t
+[Deadxsilence] Flower patches are glitching when they're fully grown. It only shows weeds
+[Trudog] Highscores don't work for me. I'm currently running OSX 10.0
+[Kingi 800] clue id:7274 doesnt work
+[Slippy] ernest the chicken maze is broken
+[Daniel] upstairs brim dung inaccessible
+[Slippy] can't cure apple tree with plant cure
+[Slippy] no rock crabs added
+[Death] no reward for daily task
+[Wen] You cannot climb over stiles
+[Death shadow] tutorial guides dont recap learned items when clicked
+[Zesh] Change "eat" the jug of wine to "drink"
+[Crownless] music system fails to play song when muted, relogged and unmuted
+[Crownless] hero and knight of ardougne are missing stats (max hit 1)
+[Crownless] dark wizards (level 7) can hit 4, should be max 2
+[Onion soup] cant use curry tree seed in fruit tree patch, says nothing interesting hap
+[Onion soup] cant use acorn in tree patch
+[Onion soup] cant use knife on chocolate bar to make dust
+[Recips] changing combat styles shouldnt reset combat
+[Crownless] sound when equiping an item is randomly different for the same item
+[Crownless] too many egg spawns farm north east of lumbridge
+[Crownless] only egg that should be there is the most north western spawn in the farm
+[Crownless] when opening ::hiscore i sometimes disconnect
+[Crownless] knife, spade spawn (varrock general store) should be on upper floor
+[Crownless] the field north of the lumbridge windmill doesn't have cows
+[Crownless] stile at the cabbage field northwest of draynor doesn't work
+[Crownless] smithing success formula for iron seems wrong, at level 73 many unsuccessf
+[Crownless] iron smithing formula: lvl 15 (50%) rises 1% per level up to lvl 45 (80%)
+[Crownless] typo in quest guide 'way of the necromancer' reguired => required
+[Teh silent] woofs bs
+[Mom woof] woof sucks
+[Mom woof] woof wont unglich me
+[Mom woof] egaergeasgaer

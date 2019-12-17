@@ -1,0 +1,7 @@
+NEW TRADE
+1459996986995§Ileakudrink§3240§3252§0§Skill§3239§3252§0
+Player 1
+1203§1
+Player 2
+317§1
+END
